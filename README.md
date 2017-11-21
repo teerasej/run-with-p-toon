@@ -31,7 +31,7 @@
 
 **link ภาพประกอบ**
 
-(https://orig00.deviantart.net/9e94/f/2013/303/d/e/github___arc___wallpaper_by_cracksoldier-d6se2bp.png)[https://orig00.deviantart.net/9e94/f/2013/303/d/e/github___arc___wallpaper_by_cracksoldier-d6se2bp.png]
+https://orig00.deviantart.net/9e94/f/2013/303/d/e/github___arc___wallpaper_by_cracksoldier-d6se2bp.png
 
 **เว็บเบราเซอร์และรุ่นที่ใช้**
 
