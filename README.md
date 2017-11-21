@@ -42,3 +42,10 @@ https://orig00.deviantart.net/9e94/f/2013/303/d/e/github___arc___wallpaper_by_cr
 
 Google Chrome 64
 
+## วิธีลบ Login ของ Facebook 
+1. จากหน้าเว็บ facebook
+2. เข้าไปที่ setting > app 
+3. แล้ว search "runwithtoon"
+4. แล้วกด remove app ด้านล่างซ้าย 
+5. แล้วกด ok
+6. กลับมาลอง refresh หน้า index.html
